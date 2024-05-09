@@ -118,7 +118,7 @@
   - [GitHub](https://github.com/Trash-Bud/CPM) - Mobile computing.
 
 - **Desenho e Desenvolvimento de Jogos Digitais (DDJD)**
-  - [GitHub](https://github.com/Trash-Bud/CPD) - Design and development of digital games.
+  - [GitHub](https://github.com/Trash-Bud/DDJD) - Design and development of digital games.
 
 - **Engenharia de Requisitos (ER)**
   - [GitHub](https://github.com/Trash-Bud/ER) - Requirements engineering.
