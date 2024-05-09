@@ -57,4 +57,20 @@
 - [ES](https://github.com/Trash-Bud/ESOF)
 - [IA](https://github.com/Trash-Bud/IA)
 
+## 1st Year - MEIC (2022/2023)
 
+#### 1st Semester
+
+- [AC](https://github.com/Trash-Bud/AC)
+- [DS](https://github.com/Trash-Bud/DS)
+- [PRI](https://github.com/Trash-Bud/PRI)
+- [SDLE](https://github.com/Trash-Bud/SDLE)
+- [SGI](https://github.com/Trash-Bud/SGI)
+
+#### 2nd Semester
+
+- [CPM](https://github.com/Trash-Bud/CPM)
+- [DDJD](https://github.com/Trash-Bud/CPD)
+- [ER](https://github.com/Trash-Bud/ER)
+- [GEE](https://github.com/Trash-Bud/GEE)
+- [SE](https://github.com/Trash-Bud/SE-Task-2)
