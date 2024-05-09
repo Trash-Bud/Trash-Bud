@@ -74,3 +74,14 @@
 - [ER](https://github.com/Trash-Bud/ER)
 - [GEE](https://github.com/Trash-Bud/GEE)
 - [SE](https://github.com/Trash-Bud/SE-Task-2)
+
+## 2nd Year - MEIC (2023/2024)
+
+#### 1st Semester
+
+- [CEDME](https://github.com/Trash-Bud/CEDME)
+- [ELS](https://github.com/Trash-Bud/ELS)
+- [RVA](https://github.com/Trash-Bud/RVA)
+- [TACS](https://github.com/Trash-Bud/TACS)
+- [TVVS](https://github.com/Trash-Bud/TVVS)
+
