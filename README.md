@@ -10,9 +10,9 @@
 
 ---
 
-## Repositories:
+## 🌟 Repositories:
 
-### 1st Year - LEIC (2019/2020)
+### 📚 1st Year - LEIC (2019/2020)
 
 #### 1st Semester
 
@@ -30,7 +30,7 @@
 - **Programação (PROG)**
   - [GitHub](https://github.com/Trash-Bud/PROG) - Advanced programming concepts.
 
-### 2nd Year - LEIC (2020/2021)
+### 📚 2nd Year - LEIC (2020/2021)
 
 #### 1st Semester
 
@@ -60,7 +60,7 @@
 - **Sistemas Operativos (SOPE)**
   - [GitHub](https://github.com/Trash-Bud/SOPE) - Operating systems.
 
-### 3rd Year - LEIC (2021/2022)
+### 📚 3rd Year - LEIC (2021/2022)
 
 #### 1st Semester
 
@@ -93,7 +93,7 @@
 - **Inteligência Artificial (IA)**
   - [GitHub](https://github.com/Trash-Bud/IA) - Artificial intelligence.
 
-### 1st Year - MEIC (2022/2023)
+### 📚 1st Year - MEIC (2022/2023)
 
 #### 1st Semester
 
@@ -118,7 +118,7 @@
   - [GitHub](https://github.com/Trash-Bud/CPM) - Mobile computing.
 
 - **Desenho e Desenvolvimento de Jogos Digitais (DDJD)**
-  - [GitHub]() - Design and development of digital games.
+  - [GitHub](https://github.com/Trash-Bud/CPD) - Design and development of digital games.
 
 - **Engenharia de Requisitos (ER)**
   - [GitHub](https://github.com/Trash-Bud/ER) - Requirements engineering.
@@ -129,7 +129,7 @@
 - **Software Educativo (SE)**
   - [GitHub](https://github.com/Trash-Bud/SE-Task-2) - Educational software development.
 
-### 2nd Year - MEIC (2023/2024)
+### 📚 2nd Year - MEIC (2023/2024)
 
 #### 1st Semester
 
