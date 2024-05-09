@@ -1,12 +1,12 @@
 # Hi there! I'm Joana Mesquita 👋
 
-🎓 About me: Portuguese student in the final year of the Master's in Informatics and Computer Engineering (MEIC) at FEUP, currently immersed in my thesis work.
+🎓 **About me:** I'm a Portuguese student in the final year of my Master's in Informatics and Computer Engineering (MEIC) at FEUP, currently immersed in my thesis work.
 
-😄 Pronouns: She/Her|Ela
+😄 **Pronouns:** She/Her|Ela
 
-💬 Languages: English and Portuguese
+💬 **Languages:** Fluent in English and Portuguese
 
-📫 How to reach me: Discord - trashbud (Juh)
+📫 **How to reach me:** Discord - trashbud (Juh)
 
 ---
 
@@ -16,72 +16,134 @@
 
 #### 1st Semester
 
-- [FPRO](https://github.com/Trash-Bud/FPRO)
-- [MDIS](https://github.com/Trash-Bud/MDIS)
+- **Fundamentos da Programação (FPRO)**
+  - [GitHub](https://github.com/Trash-Bud/FPRO) - Introduction to programming concepts.
+
+- **Matemática Discreta (MDIS)**
+  - [GitHub](https://github.com/Trash-Bud/MDIS) - Basics of discrete mathematics.
 
 #### 2nd Semester
 
-- [MPCP](https://github.com/Trash-Bud/MPCP)
-- [PROG](https://github.com/Trash-Bud/PROG)
+- **Multiprocessadores e Computadores Pessoais (MPCP)**
+  - [GitHub](https://github.com/Trash-Bud/MPCP) - Study of multiprocessors and personal computers.
 
-## 2nd Year - LEIC (2020/2021)
+- **Programação (PROG)**
+  - [GitHub](https://github.com/Trash-Bud/PROG) - Advanced programming concepts.
+
+### 2nd Year - LEIC (2020/2021)
 
 #### 1st Semester
 
-- [AEDA](https://github.com/Trash-Bud/AEDA)
-- [LCOM](https://github.com/Trash-Bud/LCOM)
-- [TCOM](https://github.com/Trash-Bud/TCOM)
+- **Algoritmos e Estruturas de Dados (AEDA)**
+  - [GitHub](https://github.com/Trash-Bud/AEDA) - Study of algorithms and data structures.
+
+- **Laboratório de Computadores (LCOM)**
+  - [GitHub](https://github.com/Trash-Bud/LCOM) - Practical laboratory sessions on computer architecture.
+
+- **Teoria da Computação (TCOM)**
+  - [GitHub](https://github.com/Trash-Bud/TCOM) - Theory of computation.
 
 #### 2nd Semester
 
-- [BDAD](https://github.com/Trash-Bud/BDAD)
-- [CAL](https://github.com/Trash-Bud/CAL)
-- [CGRA](https://github.com/Trash-Bud/CGRA)
-- [LPOO](https://github.com/Trash-Bud/LPOO)
-- [SOPE](https://github.com/Trash-Bud/SOPE)
+- **Bases de Dados (BDAD)**
+  - [GitHub](https://github.com/Trash-Bud/BDAD) - Database systems.
 
-## 3rd Year - LEIC (2021/2022)
+- **Concepção de Algoritmos (CAL)**
+  - [GitHub](https://github.com/Trash-Bud/CAL) - Design and analysis of algorithms.
+
+- **Computação Gráfica (CGRA)**
+  - [GitHub](https://github.com/Trash-Bud/CGRA) - Graphics programming.
+
+- **Laboratório de Programação Orientada a Objetos (LPOO)**
+  - [GitHub](https://github.com/Trash-Bud/LPOO) - Object-oriented programming laboratory.
+
+- **Sistemas Operativos (SOPE)**
+  - [GitHub](https://github.com/Trash-Bud/SOPE) - Operating systems.
+
+### 3rd Year - LEIC (2021/2022)
 
 #### 1st Semester
 
-- [FSI](https://github.com/Trash-Bud/FSI)
-- [LBAW](https://github.com/Trash-Bud/LBAW)
-- [LTW](https://github.com/Trash-Bud/LTW)
-- [PFL](https://github.com/Trash-Bud/PFL)
-- [RC](https://github.com/Trash-Bud/RC)
+- **Fundamentos de Segurança Informática (FSI)**
+  - [GitHub](https://github.com/Trash-Bud/FSI) - Fundamentals of computer security.
+
+- **Laboratório de Bases de Dados e Aplicações Web (LBAW)**
+  - [GitHub](https://github.com/Trash-Bud/LBAW) - Database and web application development laboratory.
+
+- **Laboratório de Tecnologia Web (LTW)**
+  - [GitHub](https://github.com/Trash-Bud/LTW) - Web technology laboratory.
+
+- **Programação Funcional e Lógica (PFL)**
+  - [GitHub](https://github.com/Trash-Bud/PFL) - Functional and logic programming.
+
+- **Redes de Computadores (RC)**
+  - [GitHub](https://github.com/Trash-Bud/RC) - Computer networks.
 
 #### 2nd Semester
 
-- [C](https://github.com/Trash-Bud/C)
-- [CPD](https://github.com/Trash-Bud/CPD)
-- [ES](https://github.com/Trash-Bud/ESOF)
-- [IA](https://github.com/Trash-Bud/IA)
+- **Compiladores (C)**
+  - [GitHub](https://github.com/Trash-Bud/C) - Compiler construction.
 
-## 1st Year - MEIC (2022/2023)
+- **Computação Paralela e Distribuída (CPD)**
+  - [GitHub](https://github.com/Trash-Bud/CPD) - Parallel and distributed computing.
+
+- **Engenharia de Software (ES)**
+  - [GitHub](https://github.com/Trash-Bud/ESOF) - Software engineering.
+
+- **Inteligência Artificial (IA)**
+  - [GitHub](https://github.com/Trash-Bud/IA) - Artificial intelligence.
+
+### 1st Year - MEIC (2022/2023)
 
 #### 1st Semester
 
-- [AC](https://github.com/Trash-Bud/AC)
-- [DS](https://github.com/Trash-Bud/DS)
-- [PRI](https://github.com/Trash-Bud/PRI)
-- [SDLE](https://github.com/Trash-Bud/SDLE)
-- [SGI](https://github.com/Trash-Bud/SGI)
+- **Aprendizagem Computacional (AC)**
+  - [GitHub](https://github.com/Trash-Bud/AC) - Computational learning.
+
+- **Desenvolvimento de Software de Larga Escala (DS)**
+  - [GitHub](https://github.com/Trash-Bud/DS) - Large-scale software development.
+
+- **Processamento e Recuperação de Informação (PRI)**
+  - [GitHub](https://github.com/Trash-Bud/PRI) - Information processing and retrieval.
+
+- **Sistemas Distribuídos de Larga Escala (SDLE)**
+  - [GitHub](https://github.com/Trash-Bud/SDLE) - Large-scale distributed systems.
+
+- **Sistemas Gráficos Interativos (SGI)**
+  - [GitHub](https://github.com/Trash-Bud/SGI) - Interactive graphics systems.
 
 #### 2nd Semester
 
-- [CPM](https://github.com/Trash-Bud/CPM)
-- [DDJD](https://github.com/Trash-Bud/CPD)
-- [ER](https://github.com/Trash-Bud/ER)
-- [GEE](https://github.com/Trash-Bud/GEE)
-- [SE](https://github.com/Trash-Bud/SE-Task-2)
+- **Computação Móvel (CPM)**
+  - [GitHub](https://github.com/Trash-Bud/CPM) - Mobile computing.
 
-## 2nd Year - MEIC (2023/2024)
+- **Desenho e Desenvolvimento de Jogos Digitais (DDJD)**
+  - [GitHub]() - Design and development of digital games.
+
+- **Engenharia de Requisitos (ER)**
+  - [GitHub](https://github.com/Trash-Bud/ER) - Requirements engineering.
+
+- **Gestão de Empresas e Empreendedorismo (GEE)**
+  - [GitHub](https://github.com/Trash-Bud/GEE) - Business management and entrepreneurship.
+
+- **Software Educativo (SE)**
+  - [GitHub](https://github.com/Trash-Bud/SE-Task-2) - Educational software development.
+
+### 2nd Year - MEIC (2023/2024)
 
 #### 1st Semester
 
-- [CEDME](https://github.com/Trash-Bud/CEDME)
-- [ELS](https://github.com/Trash-Bud/ELS)
-- [RVA](https://github.com/Trash-Bud/RVA)
-- [TACS](https://github.com/Trash-Bud/TACS)
-- [TVVS](https://github.com/Trash-Bud/TVVS)
+- **Como Elaborar uma Dissertação de Mestrado em Engenharia (CEDME)**
+  - [GitHub](https://github.com/Trash-Bud/CEDME) - Research on engineering dissertation writing.
 
+- **Engenharia de Linguagens de Software (ELS)**
+  - [GitHub](https://github.com/Trash-Bud/ELS) - Study of software language engineering.
+
+- **Realidade Virtual e Aumentada (RVA)**
+  - [GitHub](https://github.com/Trash-Bud/RVA) - Exploration of virtual and augmented reality technologies.
+
+- **Técnicas Avançadas de Construção de Software (TACS)**
+  - [GitHub](https://github.com/Trash-Bud/TACS) - Advanced software construction techniques.
+
+- **Teste, Verificação e Validação de Software (TVVS)**
+  - [GitHub](https://github.com/Trash-Bud/TVVS) - Methods for testing, verifying, and validating software.
