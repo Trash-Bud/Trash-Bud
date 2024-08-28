@@ -1,7 +1,7 @@
 # Hi there! I'm Joana Mesquita 👋
 `🌸Programmer and Hobyist Artist🌸`
 
-🎓 **About me:** I'm a Portuguese student in the final year of my Master's in Informatics and Computer Engineering (MEIC) at FEUP, currently immersed in my thesis work.
+🎓 **About me:** Portuguese with a Master's in Informatics and Computer Engineering.
 
 😄 **Pronouns:** She/Her|Ela
 
