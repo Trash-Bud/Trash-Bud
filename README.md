@@ -1,7 +1,7 @@
 # Hi there! I'm Joana Mesquita 👋
 `🌸Programmer and Hobyist Artist🌸`
 
-🎓 **About me:** Portuguese with a Master's in Informatics and Computer Engineering.
+🎓 **About me:** 22, Portuguese and with a Master's in Informatics and Computer Engineering at FEUP.
 
 😄 **Pronouns:** She/Her|Ela
 
